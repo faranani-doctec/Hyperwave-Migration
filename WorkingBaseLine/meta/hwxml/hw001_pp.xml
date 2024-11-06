@@ -1,0 +1,9 @@
+<ns0:Envelope xmlns:ns0="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://eskom.hyperwave.com">
+  <ns0:Header />
+  <ns0:Body>
+    <ns1:getObject>
+      <ns1:SessionID>ID78336478</ns1:SessionID>
+      <ns1:ObjectID>ID-4000.5625657871308-1</ns1:ObjectID>
+    </ns1:getObject>
+  </ns0:Body>
+</ns0:Envelope>
